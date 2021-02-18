@@ -1,0 +1,20 @@
+JOKER 봇 설명서 
+OPEN SOURCE
+필요한 준비물 (VSC(visual studio code),python,손)
+
+===== 봇 설명서 =====
+1.https://discord.com/developers 로 가서 봇을 만든 후
+토큰을 복사하여 소스 안의 '토큰 넣어주세요' 이 부분에 붙여넣기를 해줍니다
+2.봇을 자신의 서버에 초대해줍니다
+3.cmd를 켠 후 모듈을 임포트해줍니다
+필수 설치 모듈은 따로 작성해서 업로드 해두었습니다
+4.PYTHON.py를 열어서 봇을 온라인 시켜줍니다
+
+=====초보들을 위한 설명서=====
+1.https://code.visualstudio.com/ 이곳으로 가셔서 VSC(visual studio code)를 
+다운로드 해줍니다
+2.https://www.python.org/ 이곳에서 PYTHON을 다운로드 해줍니다.
+
+=====임포트 하는 방법=====
+1.cmd 또는 Windows Powershell을 킨 후 필수 설치 모듈 파일을 열어서
+복사 후 붙여넣기만 해주시면 됩니다.
