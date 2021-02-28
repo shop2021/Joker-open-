@@ -7,10 +7,10 @@ pip install captcha
 pip install random
 pip install time
 pip install urllib
-pip isntall requests
+pip install requests
 pip install openpyxl
 pip install get
-pip isntall quote_plus
+pip install quote_plus
 pip isntall bs4
 pip install json
 pip install BeautifulSoup
